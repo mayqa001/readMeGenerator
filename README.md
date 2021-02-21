@@ -27,7 +27,7 @@ When you run node index.js, the application uses the inquirer package to prompt 
     
 ## Contrubution
 
-
+![sample](https://github.com/mayqa001/readMeGenerator/blob/main/Develop/sample.gif)
 ## Tests
 
 *Tests for application and how to run them:*
